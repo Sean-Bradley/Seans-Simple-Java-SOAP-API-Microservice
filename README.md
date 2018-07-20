@@ -1,4 +1,4 @@
-# SeansSimpleSOAP
+# Seans Simple Java SOAP API Microservice 
 
 ## Building A Very Simple Soap Microservice In Java
 
